@@ -1,0 +1,22 @@
+{
+    "keys": [
+        {
+            "kty": "EC",
+            "use": "sig",
+            "crv": "P-521",
+            "kid": "sonia2021sig",
+            "x": "AClcSOFe6njdmno1kiN0Qq8wHU9DuKFVP-eI-HoS1iQysFCm3IF3Q72RFauRkApnu9m8oEsuRwL_vVYkkcq3YV4I",
+            "y": "AMq5-rRS9jN6M9uFMHZF1Ob7qoJTfRiKo6er8eMCpMBgYHlh8OaoqD1B9fzE2BY4I31MqscWVnoLRJMu8GiVKfsM",
+            "alg": "ES512"
+        },
+        {
+            "kty": "EC",
+            "use": "enc",
+            "crv": "P-521",
+            "kid": "sonia2021enc",
+            "x": "AJiczJTQd9qDqdxxHlJG-8bFUQlhRjSLVC_KJOLAGrdXjpz-qWrcHWCQve5iLeDFHnlxuYWQK97JYC2DGKiukdDX",
+            "y": "AKuA7dvVxCNZJpF-tB8MOMDuzq3WXnh0nWKRm-rBpsosAEE1XIzubePgg17iJQls1YQML3tnjddwuv_mJ9a-08kg",
+            "alg": "ECDH-ES"
+        }
+    ]
+}

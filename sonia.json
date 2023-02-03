@@ -1,0 +1,40 @@
+{
+  "keys": [
+    {
+      "kty": "EC",
+      "use": "sig",
+      "crv": "P-521",
+      "kid": "sonia2021sig",
+      "x": "ATWwWAI0_7lPa2s0Fe6dl82oMgnOYssbgF6AwsHtKkMIItbayIA2GLXqKXttMbqTI8ffAMqO46LjDKbkAQogNmNt",
+      "y": "ALjsfKqTNFgwi2LgclkuRAcpcENuhdIW455tcTeFgktTvmX846pExJ-mlh_fwgQx3Vhavl5TC_85Ww-oJD4JXvl7",
+      "alg": "ES512"
+    },
+    {
+      "kty": "EC",
+      "use": "enc",
+      "crv": "P-521",
+      "kid": "sonia2022enc",
+      "x": "AeB5uoRdgniCTYVcehDXJZQRxvyCnxqI-KubdVe2sfDN7bpR4wJQgCFbXuhff35IAdRZytlWM2psQmmExM9syYQn",
+      "y": "AeNewFucIRv9wWX2v2zJ8Ezka1GxlWMia61AIAwU2WyzUrLdPl1IaLr2Fdknj6m0odnI7xrkY9PLHFUesSNwUzsd",
+      "alg": "ECDH-ES"
+    },
+    {
+      "kty": "EC",
+      "use": "enc",
+      "crv": "P-521",
+      "kid": "sonia2021enc",
+      "x": "AEQr8LJ9BAShkcd-4ZnkECbD3uUo7KMBBmym0zC3dkhlXCiamevV08FHzikdgrEAeKAKPvOCfRNGZ4kYxc3iqtgT",
+      "y": "AJw71epMNmcMjYNTFCEOH8ZLXz523R1WMv4cHY38CT8sfiUfYh9tjuYN9lItipw0FIydDQvsmQMTZC69jP8YjuCQ",
+      "alg": "ECDH-ES"
+    },
+    {
+      "kty": "EC",
+      "use": "sig",
+      "crv": "P-521",
+      "kid": "sonia2022sig",
+      "x": "AYUB0TLfnt6gKhT5Y5uWcUGDSK-FKvLVPP5z2hRi71QNOs8MvQEYp6YToiphPSeQChUoyXyxlGy0NLqd1mg7b9Xj",
+      "y": "ANqPn-cw9qpdVA22rRcGgbnysxVttl-7Qco4SA5Z1n6qPS2DufDO_f0lg_iL2Knazd6_YxvNa8WxKe9fbcNM5-aX",
+      "alg": "ES512"
+    }
+  ]
+}
