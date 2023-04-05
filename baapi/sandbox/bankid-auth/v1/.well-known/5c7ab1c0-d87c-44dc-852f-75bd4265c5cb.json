@@ -4,7 +4,7 @@
       "kty": "EC",
       "use": "enc",
       "crv": "P-521",
-      "kid": "sonia2022enc",
+      "kid": "sonia2023enc",
       "x": "AEinalMciN-L5NQvEM0bP-dVx0s_AhMNcakfFLny1egMlwu4i8iM0junGT88Ysbd2MuxZMDEnJf_tQBDBSJChm4Q",
       "y": "AC6gLqwleguZIWC5VDWSwd6LGZwfaC65zNgyhFW753FZbSnfa-MrU3y3XUDzlBTR1whZoHanvI7xDLeHTIhNilwt",
       "alg": "ECDH-ES"
@@ -13,7 +13,7 @@
       "kty": "EC",
       "use": "sig",
       "crv": "P-521",
-      "kid": "sonia2022sig",
+      "kid": "sonia2023sig",
       "x": "AbG7QRykUyXQ7OAi51rOgCOq72RNW5LFa20XKoJqd6MZhnnWLS3RWdb_P8TP9G-AGu1MI-TLP9biIh_jTijD9zVL",
       "y": "Aen2WO8PRZfmO0efYUKDI1tR9tz6wqsMWqY2mjWd4E0sSDrxsjvozligElI5G1nbGZdzzc3dtQqMMlo0DlIlA4kA",
       "alg": "ES512"
