@@ -5,8 +5,8 @@
       "use": "enc",
       "crv": "P-521",
       "kid": "sonia2018enc",
-      "x": "ALeZCTW_stcX4GfkljbewsmmBFDCbe0dF2qSFSegS9-0jMwM2sNyg4wIu6yTUMJUJEmo5xM4p9lRv9UOWeAfbJJe",
-      "y": "AHy-IUhevFjZC_pTxCDgqRuOoB2omPh-qKj1m3yOuPFfT36oykLIGd3KZSeaBa9xuDjOfq8B3WT31AS0up4ubpXu",
+      "x": "AIBXTGwZWAhALkXrUpJYg0Mnymp1MlQ7laPk3ZLzRpGaWZ31J4r7heoKTjzhbcWUrrCyVgYDXO_O01bF9YgbTXv0",
+      "y": "AWowRAwRAfG4tuVSCuKbraQzi2H5JLURmZSLJPeEJ2kXSjHRW-j2yh4dPODqlYHDslOKESOUKF6znQsJwB47S6co",
       "alg": "ECDH-ES"
     },
     {
@@ -14,8 +14,8 @@
       "use": "sig",
       "crv": "P-521",
       "kid": "sonia2018sig",
-      "x": "AMNNPeodczGeeSb9mnhvXf3v_FY5cblpw5OPQPrCr8SZnC-IDRQE0l_KRLu1hCHBKYbclE0O6UfW8Uki_sCfZYeb",
-      "y": "AFWDJfiGGQN5bm1iJTT2GnZqgyCJ81-mhrmc2JI_4GfhRqBpStE3lC10RQmKN-wprGVzZmSZF63seUKDPxirAixA",
+      "x": "Ad2H5FKhbAaBWSobwDueDC4O-3FRXP8SjXCfu6XBtYBReB4XfKpp7gJzHlFpinfHqKcGz8inSBP_blBWbGqHzVfq",
+      "y": "AHOYOV7mgio153HiLJsP0AzUN9Fjtq04X1S4lmcBFvLzXHzncuAlYD01LXkTdZPa87CoG9_tSJDcxQ9iN4tYyvOj",
       "alg": "ES512"
     }
   ]
